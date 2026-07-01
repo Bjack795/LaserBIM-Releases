@@ -1,14 +1,14 @@
-﻿{
+{
     "schema":  1,
     "channel":  "stable",
     "version":  "0.1.0",
     "platform":  "windows-x64",
-    "released_at":  "2026-07-01T08:01:03Z",
+    "released_at":  "2026-07-01T08:11:54Z",
     "notes":  "Prima release con aggiornamenti automatici.",
     "artifact":  {
                      "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v0.1.0/LaserBim-0.1.0-win-x64.zip",
                      "filename":  "LaserBim-0.1.0-win-x64.zip",
-                     "size":  203880440,
-                     "sha256":  "c4f8dac4d3c9beb9a2893446b228b4c6898a22241c1f378a52d089091567ed75"
+                     "size":  203880995,
+                     "sha256":  "b7b37a711f05a41c6514e349db37e15288dfb7285ed7dd8ee76fd5c32bafd80b"
                  }
 }
