@@ -1,14 +1,14 @@
 {
     "schema":  1,
     "channel":  "stable",
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "platform":  "windows-x64",
-    "released_at":  "2026-07-22T14:18:25Z",
-    "notes":  "Sistemata la verifica modello",
+    "released_at":  "2026-07-23T15:12:16Z",
+    "notes":  "Aggiunte espressioni per il filtro personalizzato",
     "artifact":  {
-                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.2/LaserBim-1.0.2-win-x64.zip",
-                     "filename":  "LaserBim-1.0.2-win-x64.zip",
-                     "size":  203886644,
-                     "sha256":  "c445aa186a3b6ab8d39bb6924f8b22dffb9f5e20edf5cb9f093bf64c5a5a5d54"
+                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.3/LaserBim-1.0.3-win-x64.zip",
+                     "filename":  "LaserBim-1.0.3-win-x64.zip",
+                     "size":  203894005,
+                     "sha256":  "5fe7dc993573621a826577e9e29d275e346f80a04d717928d06bf2fa45691dba"
                  }
 }
