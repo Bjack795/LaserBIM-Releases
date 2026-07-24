@@ -1,14 +1,14 @@
 {
     "schema":  1,
     "channel":  "stable",
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "platform":  "windows-x64",
-    "released_at":  "2026-07-23T15:12:16Z",
-    "notes":  "Aggiunte espressioni per il filtro personalizzato",
+    "released_at":  "2026-07-24T10:00:17Z",
+    "notes":  "Aggiunta spunta per mostrare solo gli elementi con regole applicabili nella verifica modello",
     "artifact":  {
-                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.3/LaserBim-1.0.3-win-x64.zip",
-                     "filename":  "LaserBim-1.0.3-win-x64.zip",
-                     "size":  203894005,
-                     "sha256":  "5fe7dc993573621a826577e9e29d275e346f80a04d717928d06bf2fa45691dba"
+                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.4/LaserBim-1.0.4-win-x64.zip",
+                     "filename":  "LaserBim-1.0.4-win-x64.zip",
+                     "size":  203894260,
+                     "sha256":  "8b05e5e4ec7392f4f935e87edc92b8f6ed594c29b3bc85bd61d99f4d37a06ef2"
                  }
 }
