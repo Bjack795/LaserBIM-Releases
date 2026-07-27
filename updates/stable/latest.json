@@ -1,14 +1,14 @@
 {
     "schema":  1,
     "channel":  "stable",
-    "version":  "1.0.4",
+    "version":  "1.0.5",
     "platform":  "windows-x64",
-    "released_at":  "2026-07-24T10:00:17Z",
-    "notes":  "Aggiunta spunta per mostrare solo gli elementi con regole applicabili nella verifica modello",
+    "released_at":  "2026-07-27T13:53:42Z",
+    "notes":  "Sistemati i filtri sui parametri non conformi nella validazione del modello",
     "artifact":  {
-                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.4/LaserBim-1.0.4-win-x64.zip",
-                     "filename":  "LaserBim-1.0.4-win-x64.zip",
-                     "size":  203894260,
-                     "sha256":  "8b05e5e4ec7392f4f935e87edc92b8f6ed594c29b3bc85bd61d99f4d37a06ef2"
+                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.5/LaserBim-1.0.5-win-x64.zip",
+                     "filename":  "LaserBim-1.0.5-win-x64.zip",
+                     "size":  203898362,
+                     "sha256":  "fa008fafef0798afb27af6e4a1ffbd23a4c31fb8f22a090da5655d6f5e2e072c"
                  }
 }
