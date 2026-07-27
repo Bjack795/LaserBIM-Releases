@@ -1,14 +1,23 @@
 {
-    "schema":  1,
+    "schema":  2,
     "channel":  "stable",
-    "version":  "1.0.5",
+    "version":  "1.0.6",
     "platform":  "windows-x64",
-    "released_at":  "2026-07-27T13:53:42Z",
-    "notes":  "Sistemati i filtri sui parametri non conformi nella validazione del modello",
+    "released_at":  "2026-07-27T15:59:22Z",
+    "notes":  "Introduzione aggiornamenti cifrati.",
     "artifact":  {
-                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.5/LaserBim-1.0.5-win-x64.zip",
-                     "filename":  "LaserBim-1.0.5-win-x64.zip",
-                     "size":  203898362,
-                     "sha256":  "fa008fafef0798afb27af6e4a1ffbd23a4c31fb8f22a090da5655d6f5e2e072c"
+                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.6/LaserBim-1.0.6-win-x64.lbupdate",
+                     "filename":  "LaserBim-1.0.6-win-x64.lbupdate",
+                     "size":  207722079,
+                     "sha256":  "3923aa174b964b119578e617e36db644afd16738db3e85e860c1ff8e74e1381b",
+                     "encryption":  {
+                                        "algorithm":  "AES-256-GCM",
+                                        "key_id":  "laserbim-ad2608d023bdbb16"
+                                    },
+                     "signature":  {
+                                       "algorithm":  "Ed25519",
+                                       "scope":  "artifact-v1",
+                                       "value":  "LJ5vva+T+pDtf/5X7vsLA01gJTjnepLiYhybaRGmeatfcDBGD9oYnrP/s9VR8EqygVfd9oi0NgTMRcuva/eICQ=="
+                                   }
                  }
 }
