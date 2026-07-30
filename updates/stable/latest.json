@@ -1,14 +1,23 @@
 {
-    "schema":  1,
+    "schema":  2,
     "channel":  "stable",
-    "version":  "1.0.6",
+    "version":  "1.0.7",
     "platform":  "windows-x64",
-    "released_at":  "2026-07-27T16:07:45Z",
-    "notes":  "Introduzione aggiornamenti cifrati.",
+    "released_at":  "2026-07-30T13:45:09Z",
+    "notes":  "Implementati filtri avanzati e percorso di default degli NP condivisi",
     "artifact":  {
-                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.6/LaserBim-1.0.6-win-x64.zip",
-                     "filename":  "LaserBim-1.0.6-win-x64.zip",
-                     "size":  207722043,
-                     "sha256":  "8435335dc122f8e879e3b6a42249c2b9ec91b2abbb44c5e7f03baed53c632faf"
+                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.7/LaserBim-1.0.7-win-x64.lbupdate",
+                     "filename":  "LaserBim-1.0.7-win-x64.lbupdate",
+                     "size":  207760914,
+                     "sha256":  "97ded2af2f32343b39314e9b94f3ac27ada9e2c1397caef03c6744435424bffe",
+                     "encryption":  {
+                                        "algorithm":  "AES-256-GCM",
+                                        "key_id":  "laserbim-ad2608d023bdbb16"
+                                    },
+                     "signature":  {
+                                       "algorithm":  "Ed25519",
+                                       "scope":  "artifact-v1",
+                                       "value":  "3ZnmDXiOXtbaF47ZThc8pNm4rJkdlclipDIS4CfoL/ewnf3KOIPn1i489dxPbv56Jg/Qaoh6Kff655+oGZB9Bg=="
+                                   }
                  }
 }
