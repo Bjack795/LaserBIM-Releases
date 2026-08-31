@@ -1,15 +1,15 @@
 {
     "schema":  2,
     "channel":  "stable",
-    "version":  "1.0.8",
+    "version":  "1.0.9",
     "platform":  "windows-x64",
-    "released_at":  "2026-08-25T07:12:50Z",
-    "notes":  "Esportazione solo di elementi con regole applicabili se applicato il filtro",
+    "released_at":  "2026-08-31T15:24:25Z",
+    "notes":  "Aggiunte funzionalità alla verifica modello e altri minor changes",
     "artifact":  {
-                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.8/LaserBim-1.0.8-win-x64.lbupdate",
-                     "filename":  "LaserBim-1.0.8-win-x64.lbupdate",
-                     "size":  215549696,
-                     "sha256":  "b43fb062bb0c999f5dc6bd2fec352c3014a5fb87b27597798b283f64a20e731d",
+                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.9/LaserBim-1.0.9-win-x64.lbupdate",
+                     "filename":  "LaserBim-1.0.9-win-x64.lbupdate",
+                     "size":  215563885,
+                     "sha256":  "b8c832cf9eb30241d20ad329959186b52680003a7e11d4833a79884335ea5601",
                      "encryption":  {
                                         "algorithm":  "AES-256-GCM",
                                         "key_id":  "laserbim-ad2608d023bdbb16"
@@ -17,7 +17,7 @@
                      "signature":  {
                                        "algorithm":  "Ed25519",
                                        "scope":  "artifact-v1",
-                                       "value":  "BWcOVv6fuYZ3ByVb1imfq2+VIzXih1kNeY5Z+C1WOTBiZA+VtKEmlLAShj8cqdgeGLzKYM0UsZvv13LGknUOCQ=="
+                                       "value":  "C/uE0Ee0qKTVx1nWYUMHdYs4XacLuaEAukFHIhypsiZKSvfFI1pcL/fqyu2wpSnOyuWXhfWCshFZ47fYcbqlBQ=="
                                    }
                  }
 }
