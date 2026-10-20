@@ -1,15 +1,15 @@
 {
     "schema":  2,
     "channel":  "stable",
-    "version":  "1.0.10",
+    "version":  "1.0.11",
     "platform":  "windows-x64",
-    "released_at":  "2026-09-02T15:30:46Z",
-    "notes":  "Aggiustato bug visualizzazione dropdown visualizzazione cause verifica modello",
+    "released_at":  "2026-10-20T10:01:47Z",
+    "notes":  "sistemati alcuni bug nella gestione di computi e filtri",
     "artifact":  {
-                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.10/LaserBim-1.0.10-win-x64.lbupdate",
-                     "filename":  "LaserBim-1.0.10-win-x64.lbupdate",
-                     "size":  215566234,
-                     "sha256":  "b50a0f1b3de67670b68832371cf7c76508165ec62951a9b62c07ea78bea8f4d1",
+                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.11/LaserBim-1.0.11-win-x64.lbupdate",
+                     "filename":  "LaserBim-1.0.11-win-x64.lbupdate",
+                     "size":  215550899,
+                     "sha256":  "9c97126d38b13d4b8f9e52a89817582a93adb611963375a0c60fa5eaa916211b",
                      "encryption":  {
                                         "algorithm":  "AES-256-GCM",
                                         "key_id":  "laserbim-ad2608d023bdbb16"
@@ -17,7 +17,7 @@
                      "signature":  {
                                        "algorithm":  "Ed25519",
                                        "scope":  "artifact-v1",
-                                       "value":  "Mp0Z8qpYCF8fU1HcLGPg8IsqVZnvlZV5tdxQSEPb4bL9YnLxG9CFO9vzrdWtgsY/b5xX9+KDtK8Nz57h71p7Cg=="
+                                       "value":  "f56IFfOxHAbNe76MGwNp0UF933jiZ6ZNsSDyZ/N+mud60Dzo+TPFED/FQmovfFPZzSAM4Lc+6cjCDTcdYGIPDg=="
                                    }
                  }
 }
