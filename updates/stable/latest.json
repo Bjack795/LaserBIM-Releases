@@ -1,15 +1,15 @@
 {
     "schema":  2,
     "channel":  "stable",
-    "version":  "1.0.13",
+    "version":  "1.0.14",
     "platform":  "windows-x64",
-    "released_at":  "2026-10-22T08:02:31Z",
-    "notes":  "Migliorato rendering dei volumi nel visualizzatore 3D",
+    "released_at":  "2026-10-22T11:01:16Z",
+    "notes":  "Sistemati zoom e tasto destro nel viewer del \"verifica modello\"",
     "artifact":  {
-                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.13/LaserBim-1.0.13-win-x64.lbupdate",
-                     "filename":  "LaserBim-1.0.13-win-x64.lbupdate",
-                     "size":  215606104,
-                     "sha256":  "0f0c1a99858711458c86dff2df5c87e9fe92f880bf217b7b675e458397be1252",
+                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.14/LaserBim-1.0.14-win-x64.lbupdate",
+                     "filename":  "LaserBim-1.0.14-win-x64.lbupdate",
+                     "size":  215607972,
+                     "sha256":  "805a72026059937a297e15b8fc6f76a97c8e865dfe857357354f327172770a3a",
                      "encryption":  {
                                         "algorithm":  "AES-256-GCM",
                                         "key_id":  "laserbim-ad2608d023bdbb16"
@@ -17,7 +17,7 @@
                      "signature":  {
                                        "algorithm":  "Ed25519",
                                        "scope":  "artifact-v1",
-                                       "value":  "nXhv3fUGu1t9YDqZbb5Figanq1wZQo/QZVoC2JFEE+KZYxTt0NDBvnrRIroLs+4jwwKlJ+vw68gQSgyf+MgMDQ=="
+                                       "value":  "/+Dx+CFrE32YKv3GdkGqd2VRQBiY9z3xO6Efd0JwYxoxVpfwui3/z/apgW3mi4dVncgJqTjCOkG+7+MJwDvHDw=="
                                    }
                  }
 }
