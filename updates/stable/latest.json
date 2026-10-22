@@ -1,15 +1,15 @@
 {
     "schema":  2,
     "channel":  "stable",
-    "version":  "1.0.12",
+    "version":  "1.0.13",
     "platform":  "windows-x64",
-    "released_at":  "2026-10-21T09:43:00Z",
-    "notes":  "Miglioramento prestazioni visualizzatore 3D e supporto per GPU dedicata",
+    "released_at":  "2026-10-22T08:02:31Z",
+    "notes":  "Migliorato rendering dei volumi nel visualizzatore 3D",
     "artifact":  {
-                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.12/LaserBim-1.0.12-win-x64.lbupdate",
-                     "filename":  "LaserBim-1.0.12-win-x64.lbupdate",
-                     "size":  215607957,
-                     "sha256":  "0aa8feff7545415452297eb6a836f7cdc2c7b35291a343d162fb86f256d3fecb",
+                     "url":  "https://github.com/Bjack795/LaserBIM-Releases/releases/download/v1.0.13/LaserBim-1.0.13-win-x64.lbupdate",
+                     "filename":  "LaserBim-1.0.13-win-x64.lbupdate",
+                     "size":  215606104,
+                     "sha256":  "0f0c1a99858711458c86dff2df5c87e9fe92f880bf217b7b675e458397be1252",
                      "encryption":  {
                                         "algorithm":  "AES-256-GCM",
                                         "key_id":  "laserbim-ad2608d023bdbb16"
@@ -17,7 +17,7 @@
                      "signature":  {
                                        "algorithm":  "Ed25519",
                                        "scope":  "artifact-v1",
-                                       "value":  "6okL3VhwCIIFzkkydiGgJM/awxvJGfwD6j+kpaxvf4GjbXVbBgqkgy6WIfahwzbEETmcwUDXeKAJ8gGtKhjrCw=="
+                                       "value":  "nXhv3fUGu1t9YDqZbb5Figanq1wZQo/QZVoC2JFEE+KZYxTt0NDBvnrRIroLs+4jwwKlJ+vw68gQSgyf+MgMDQ=="
                                    }
                  }
 }
